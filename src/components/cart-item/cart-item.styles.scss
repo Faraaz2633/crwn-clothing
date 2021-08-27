@@ -19,6 +19,16 @@
       .name {
         font-size: 16px;
       }
+
     }
+    .remove-button-holder{
+      display: flex;
+      align-items: center;
+
+    .remove-button {
+      cursor: pointer;
+      user-select: none;
+    }
+  }
   }
   
